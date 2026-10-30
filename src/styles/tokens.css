@@ -1,0 +1,46 @@
+:root {
+  --swiss-color-primary: #d52b1e;
+  --swiss-color-primary-hover: #b3221a;
+  --swiss-color-primary-contrast: #ffffff;
+  --swiss-color-bg: #ffffff;
+  --swiss-color-surface: #f5f5f5;
+  --swiss-color-border: #d4d4d4;
+  --swiss-color-text: #111111;
+  --swiss-color-muted: #666666;
+  --swiss-color-info: #0b63ce;
+  --swiss-color-success: #1a7f37;
+  --swiss-color-warning: #b26a00;
+  --swiss-color-danger: #c4170c;
+  --swiss-chart-1: #d52b1e;
+  --swiss-chart-2: #111111;
+  --swiss-chart-3: #0b63ce;
+  --swiss-chart-4: #1a7f37;
+  --swiss-chart-5: #b26a00;
+  --swiss-chart-6: #8a8a8a;
+
+  --swiss-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --swiss-font-size-xs: 0.75rem;
+  --swiss-font-size-sm: 0.875rem;
+  --swiss-font-size-md: 1rem;
+  --swiss-font-size-lg: 1.125rem;
+  --swiss-font-size-xl: 1.375rem;
+  --swiss-font-size-2xl: 1.75rem;
+  --swiss-font-size-3xl: 2.5rem;
+
+  --swiss-spacing-0: 0;
+  --swiss-spacing-1: 0.25rem;
+  --swiss-spacing-2: 0.5rem;
+  --swiss-spacing-3: 0.75rem;
+  --swiss-spacing-4: 1rem;
+  --swiss-spacing-5: 1.25rem;
+  --swiss-spacing-6: 1.5rem;
+  --swiss-spacing-8: 2rem;
+  --swiss-spacing-10: 2.5rem;
+  --swiss-spacing-12: 3rem;
+
+  --swiss-radius: 0;
+  --swiss-focus: 0 0 0 3px rgba(11, 99, 206, 0.45);
+  --swiss-control-h-sm: 1.75rem;
+  --swiss-control-h-md: 2.25rem;
+  --swiss-control-h-lg: 2.75rem;
+}
